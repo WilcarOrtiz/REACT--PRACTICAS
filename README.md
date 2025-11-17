@@ -12,6 +12,7 @@ Repositorio que agrupa **pequeños proyectos de práctica en React**, cada uno d
 | `projects/hola-mundo/`                | Proyecto “Hola Mundo” en React.                 |
 | `projects/mouse-follower/`            | Proyecto que sigue el mouse con React.          |
 | `projects/triqui/`                    | Proyecto de “Tres en línea” (Tic‑Tac‑Toe).     |
+| `projects/tienda_carrito/`                    | Proyecto de explica useContext, useReducer, useState.     |
 | …                                     |       |
 
 > Cada carpeta proyecto es independiente: contiene su propio `package.json` y código React.  
